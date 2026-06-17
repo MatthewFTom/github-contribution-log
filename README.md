@@ -1,6 +1,6 @@
 # github-contribution-log
 
-# Contribution [#]: [Issue Title]
+# Contribution [1]: [Missing loading icons and bugs]
 
 **Contribution Number:** 1
 **Student:** Matthew Floresca Tom
