@@ -5,7 +5,7 @@
 **Contribution Number:** 1
 **Student:** Matthew Floresca Tom
 **Issue:** [[GitHub issue link] ](https://github.com/TEAMMATES/teammates/issues/10569) 
-**Status:** Phase 1 In Progress
+**Status:** Phase I Complete
 
 ---
 
